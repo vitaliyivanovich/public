@@ -1,2 +1,4 @@
 Wrong commit
-wrong commit2
+
+wrong commit3
+HEAD
